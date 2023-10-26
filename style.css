@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    text-align: center;
+    color: #0D0C22;
+    background: #FFFFFF;
+    padding: 0px 30px;
+}
+
+.navbar ul {
+    overflow: auto;
+    padding: 0;
+}
+
+.navbar li {
+    float: left;
+    background: #FFFFFF;
+    list-style: none;
+    margin: 40px 0px;
+}
+
+.navbar li a {
+    color: #0D0C22;
+    padding: 3px 3px;
+    font: 14px "Arial";
+    list-style: none;
+    padding: 0px 12px;
+    text-decoration: none;
+}
+
+.logo {
+    background-image: url("Dribbble-logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+}
+
+#btn {
+    float: right;
+    text-align: center;
+}
+
+.btn1 {
+    font: 16px "Arial";
+    color: #0D0C22;
+    font-weight: 100px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn2 {
+    font: 100px;
+    font-weight: bold;
+    color: #0D0C22;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn3 {
+    font: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #0D0C22;
+    border: 18px solid#0D0C22;
+    border-radius: 50px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.section {
+    margin: auto;
+    padding: 60px 345px;
+}
+
+.img1 {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    float: left;
+    padding-right: 15px;
+}
+
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.abc {
+    color: #3D3D4E;
+    text-decoration: none;
+    font-family: 'Arial';
+    font-size: 13px;
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+#point {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.btn4 {
+    float: right;
+    border: 12px solid#0D0C22;
+    border-radius: 50px;
+    background: #0D0C22;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.video {
+    object-fit: contain;
+    overflow: clip;
+}
+
+.info {
+    margin-left: 345px;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-right: 100px;
+    padding: 15px;
+}
+
+.info1 {
+    margin-left: 345px;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+#pages {
+    text-decoration: underline palevioletred;
+}
+
+.img2 {
+    margin-left: 150px;
+}
+
